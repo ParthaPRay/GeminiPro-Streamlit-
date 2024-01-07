@@ -46,6 +46,13 @@ pip install -q -U google-generativeai
 ```
 pip install -q -U streamlit
 ```
+or
+
+For Conda environment
+
+```
+conda install -q -U streamlit
+```
 
 **4. Write the python code aap.py**
 
