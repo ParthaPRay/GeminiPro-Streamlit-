@@ -5,7 +5,7 @@ Used Conda Distribution on Python 3.11.5.
 
 
 
-**1. Craeet a Virtual Environment**
+**1. Craeet a Virtual Environment and Activate**
 
 ```
 conda create -n myenv python=3.11
