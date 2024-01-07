@@ -258,3 +258,10 @@ streamlit run app.py
 
 ![Screenshot 2024-01-07 233255](https://github.com/ParthaPRay/GeminiPro-Streamlit-/assets/1689639/9d4fe6c1-a1cf-4beb-ab58-ec5f5c769d1d)
 
+
+
+
+Reference
+
+1. https://www.youtube.com/watch?v=LTmTDht1PQ8&ab_channel=SkillCurb
+
