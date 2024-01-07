@@ -41,6 +41,14 @@ conda activate myenv
 pip install -q -U google-generativeai
 ```
 
+or
+
+Try below for Conda environment
+
+```
+conda install conda-forge::google-cloud-aiplatform
+```
+
 **3. Install Streamlit Library**
 
 ```
