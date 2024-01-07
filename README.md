@@ -1,4 +1,4 @@
-# GeminiPro-Streamlit-
+# GeminiPro-Streamlit-Web-Application
 This repo contains a step-by-step guide for an app based on Google's Gemini Pro and Streamlit
 
 ![download](https://github.com/ParthaPRay/GeminiPro-Streamlit-/assets/1689639/5b177340-e940-431c-a1d8-bac84a9785ec)
