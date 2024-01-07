@@ -14,3 +14,15 @@ conda create -n myenv python=3.11
 ```
 conda activate myenvv
 ```
+
+**2. Install (silently) GoogleAI Libarary**
+
+```
+pip install -q -U google-generativeai
+```
+
+**3. Install Streamlit Library**
+
+```
+pip install -q -U streamlit
+```
