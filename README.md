@@ -9,6 +9,9 @@ This repo contains a step-by-step guide for an app based on Google's Gemini Pro 
 
 https://makersuite.google.com/app/prompts/new_freeform
 
+![image](https://github.com/ParthaPRay/GeminiPro-Streamlit-/assets/1689639/7c496165-ae6a-48e8-ac75-fc39beef2064)
+
+
 
 **1. Craeet a Virtual Environment and Activate**
 
