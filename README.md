@@ -4,6 +4,10 @@ This repo contains a step-by-step guide for an app based on Google's Gemini Pro 
 ![download](https://github.com/ParthaPRay/GeminiPro-Streamlit-/assets/1689639/5b177340-e940-431c-a1d8-bac84a9785ec)
 
 
+![download](https://github.com/ParthaPRay/GeminiPro-Streamlit-/assets/1689639/d0c94ab1-42d4-4524-8820-5bb7b1f4c91e)
+
+
+
 * Used Conda Distribution on Python 3.11.5.
 
 
