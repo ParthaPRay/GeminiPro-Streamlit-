@@ -19,8 +19,13 @@ https://makersuite.google.com/app/prompts/new_freeform
 ![image](https://github.com/ParthaPRay/GeminiPro-Streamlit-/assets/1689639/7c496165-ae6a-48e8-ac75-fc39beef2064)
 
 
+# How it works?
 
-**1. Craeet a Virtual Environment and Activate**
+![image](https://github.com/ParthaPRay/GeminiPro-Streamlit-Web-App/assets/1689639/d8ae150c-dbdb-41c5-8b86-a80aeb62e42c)
+
+
+
+**1. Creat a Virtual Environment and Activate**
 
 ```
 conda create -n myenv python=3.11
